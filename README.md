@@ -1,113 +1,177 @@
+# 👋 Hi, I'm Goutham Kumar S K
+
 <div align="center">
-  <img src="[PATH_TO_YOUR_IMAGE]" alt="Goutham Kumar" width="180" style="border-radius: 50%; border: 4px solid #8b5cf6; box-shadow: 0 0 20px rgba(139, 92, 246, 0.4); margin-bottom: 15px;">
-  
-  <h1 style="color: #ffffff; font-size: 2.5rem; margin: 0;">Goutham Kumar S K</h1>
-  
-  <p style="color: #a0a0a0; font-size: 1.2rem; margin-top: 5px;">
-    <strong>Full-Stack Developer | Python & React Enthusiast</strong>
-  </p>
-  
+
+  <img src="images/Profile.jpeg" alt="Goutham Kumar S K" width="200">
+
+  <h3>💻 Aspiring Software Engineer | Problem Solver | Lifelong Learner</h3>
+
   <p>
-    <a href="https://portfoliogoutham.vercel.app/" target="_blank" style="text-decoration: none; color: #8b5cf6; font-weight: bold;">
-      🌐 portfoliogoutham.vercel.app
-    </a> 
-    • 
-    <a href="mailto:gowtham57845@gmail.com" style="text-decoration: none; color: #8b5cf6; font-weight: bold;">
-      📧 gowtham57845@gmail.com
+    <a href="https://github.com/Gouthamdc2007">
+      <img src="https://img.shields.io/badge/GitHub-Gouthamdc2007-181717?style=for-the-badge&logo=github" alt="GitHub">
     </a>
-    • 
-    <a href="https://www.linkedin.com/in/goutham-kumar-s-k-790884340/" target="_blank" style="text-decoration: none; color: #8b5cf6; font-weight: bold;">
-      💼 LinkedIn
+    <a href="https://www.linkedin.com/in/goutham-kumar-s-k-790884340/">
+      <img src="https://img.shields.io/badge/LinkedIn-Goutham%20Kumar-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+    </a>
+    <a href="mailto:gowtham57845@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
     </a>
   </p>
+
 </div>
 
 ---
 
-### 👨‍💻 About Me
-I'm a passionate **Full-Stack Developer** from India with a deep love for building scalable web applications and solving complex problems. My journey in tech is driven by curiosity and a constant desire to learn new technologies. I specialize in bridging the gap between elegant design and robust back-end functionality.
+## 👨‍💻 About Me
 
-- 🔭 **Currently working on:** Enhancing my portfolio with advanced full-stack projects.
-- 🌱 **Currently learning:** Advanced React patterns, Cloud deployment (AWS/Vercel), and Data Structures.
-- 🎯 **Goal:** To secure a challenging developer role where I can contribute to impactful projects.
-- ⚡ **Fun fact:** I enjoy breaking down complex UI designs into clean, responsive code.
+I'm **Goutham Kumar S K**, a Computer Science and Engineering student at **Sri Krishna College of Engineering and Technology (SKCET)** and an aspiring Software Engineer.
 
----
+I enjoy solving problems, building projects, learning new technologies, and continuously improving my programming skills.
 
-### 🛠️ Tech Stack & Skills
-*(Based on your portfolio)*
+I'm particularly interested in **software development, data structures & algorithms, web development, and problem solving**.
 
-| **Category** | **Technologies** |
-| :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) |
-| **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) |
-| **Tools & DevOps** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
+### 🚀 Currently Focused On
+
+- 💻 Strengthening my **Java & Python** programming skills
+- 🧠 Improving my **Data Structures & Algorithms** knowledge
+- 🗄️ Learning and working with **SQL & databases**
+- 🌐 Building responsive and interactive web projects
+- 🧩 Practicing problem solving and logical thinking
+- 🚀 Building projects that help me grow as a developer
 
 ---
 
-### 🚀 Featured Projects
-*(Verified from your portfolio site)*
+## 🛠️ Tech Stack
 
-#### 1. **E-Commerce Web App** *(MERN Stack)*
-> A fully functional online store with user authentication, product management, and a seamless shopping cart experience.
-- **Tech Stack:** React, Node.js, Express, MongoDB, JWT Authentication.
-- **Key Features:** User login/signup, product search, dynamic cart, order history.
-- [🔗 Live Demo](https://portfoliogoutham.vercel.app/) | [📂 GitHub Repo](https://github.com/yourusername)
+### 💻 Programming Languages
 
-#### 2. **Weather Dashboard**
-> A responsive web application that provides real-time weather updates and 5-day forecasts for any city in the world.
-- **Tech Stack:** HTML5, CSS3, JavaScript, OpenWeatherMap API.
-- **Key Features:** Dynamic search, animated weather icons, responsive mobile-first design.
-- [🔗 Live Demo](https://portfoliogoutham.vercel.app/) | [📂 GitHub Repo](https://github.com/yourusername)
-
-#### 3. **Personal Portfolio Website** *(Current)*
-> The very portfolio you are viewing right now—a modern, dark-themed showcase of my work and skills.
-- **Tech Stack:** React, Tailwind CSS, Framer Motion.
-- **Key Features:** Smooth animations, contact form, project gallery.
-- [🔗 Live Demo](https://portfoliogoutham.vercel.app/) | [📂 GitHub Repo](https://github.com/yourusername)
-
----
-
-### 📜 Education & Certifications
-*(Based on what I could infer—please update if you have more!)*
-
-- **Bachelor's Degree in [Your Degree, e.g., Computer Science]** – [Your University Name] *(Year)*
-- **Certifications:**
-  - Full-Stack Web Development (MERN) – [Platform/Course Name]
-  - Python for Everybody – University of Michigan (Coursera)
-  - JavaScript Algorithms and Data Structures – freeCodeCamp
-
----
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=8b5cf6" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_GITHUB_USERNAME]&theme=radical&hide_border=true&background=0d1117&ring=8b5cf6&fire=8b5cf6&currStreakLabel=8b5cf6" alt="GitHub Streak" width="48%" />
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 </p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[YOUR_GITHUB_USERNAME]&bg_color=0d1117&color=ffffff&line=8b5cf6&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" width="95%" />
+
+### 🌐 Web Development
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+</p>
+
+### 🗄️ Database
+
+<p>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
+</p>
+
+### 🔧 Tools & Platforms
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
 </p>
 
 ---
 
-### 📫 Let's Connect
+## 🚀 Featured Project
 
-I'm always open to collaborating on exciting projects or discussing new opportunities. Feel free to reach out!
+### 🌐 Personal Portfolio
+
+A personal developer portfolio created to showcase my skills, projects, experience, and journey as a Computer Science student.
+
+**Built With:**
+
+- HTML
+- CSS
+- JavaScript
+
+🔗 **Live Portfolio:**  
+https://portfoliogoutham.vercel.app/
+
+🔗 **GitHub Repository:**  
+https://github.com/Gouthamdc2007/portfolio
+
+---
+
+## 🧠 Problem Solving
+
+I believe that becoming a good software engineer isn't only about knowing programming languages — it's about being able to **break down problems, think logically, and build efficient solutions**.
+
+Currently working on improving my knowledge of:
+
+- Data Structures
+- Algorithms
+- Time & Space Complexity
+- Object-Oriented Programming
+- Problem Solving
+- SQL & Database Concepts
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
-  
-  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://portfoliogoutham.vercel.app/)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/goutham-kumar-s-k-790884340/)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gowtham57845@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/[YOUR_GITHUB_USERNAME])
-  
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Gouthamdc2007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="Goutham's GitHub Stats">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gouthamdc2007&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages">
+
+</div>
+
+<br>
+
+<div align="center">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gouthamdc2007&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+
 </div>
 
 ---
 
+## 🎯 My Goals
+
+- 🚀 Become a skilled Software Engineer
+- 🧠 Master Data Structures & Algorithms
+- 💻 Build meaningful real-world projects
+- 🌐 Improve my full-stack development skills
+- 🤝 Contribute to open-source projects
+- 📚 Keep learning and experimenting with new technologies
+- 🌟 Build a strong portfolio and professional presence
+
+---
+
+## 📫 Let's Connect
+
+I'm always interested in connecting with developers, students, and people passionate about technology.
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[YOUR_GITHUB_USERNAME]&color=8b5cf6&style=flat-square" alt="Profile Views" />
+
+<a href="mailto:gowtham57845@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+
+<a href="https://www.linkedin.com/in/goutham-kumar-s-k-790884340/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="https://github.com/Gouthamdc2007">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+<a href="https://portfoliogoutham.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+</a>
+
 </p>
+
+---
+
+<div align="center">
+
+### 💡 "The best way to learn is to build."
+
+⭐ **Thanks for visiting my profile!**
+
+</div>
