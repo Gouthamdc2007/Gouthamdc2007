@@ -8,15 +8,15 @@
 
 <p>
 <a href="https://github.com/Gouthamdc2007">
-<img src="https://img.shields.io/badge/GitHub-Gouthamdc2007-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-Gouthamdc2007-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
 <a href="https://www.linkedin.com/in/goutham-kumar-s-k-790884340/">
-<img src="https://img.shields.io/badge/LinkedIn-Goutham%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-Goutham%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 <a href="mailto:gowtham57845@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 </p>
 
@@ -49,31 +49,31 @@ I'm passionate about **Software Development, Data Structures & Algorithms, Web D
 ### 💻 Programming Languages
 
 <p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 </p>
 
 ### 🌐 Web Development
 
 <p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 </p>
 
 ### 🗄️ Database
 
 <p>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
 </p>
 
 ### 🔧 Tools & Platforms
 
 <p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
 </p>
 
 ---
@@ -92,11 +92,11 @@ A personal portfolio website created to showcase my skills, projects, and journe
 
 <p>
 <a href="https://portfoliogoutham.vercel.app/">
-<img src="https://img.shields.io/badge/🌐_Live_Portfolio-Visit_Website-000000?style=for-the-badge">
+<img src="https://img.shields.io/badge/🌐_Live_Portfolio-Visit_Website-000000?style=for-the-badge" alt="Live Portfolio">
 </a>
 
 <a href="https://github.com/Gouthamdc2007/portfolio">
-<img src="https://img.shields.io/badge/📂_GitHub-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/📂_GitHub-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository">
 </a>
 </p>
 
@@ -129,21 +129,31 @@ I'm continuously improving my ability to:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Gouthamdc2007&show_icons=true&theme=tokyonight&hide_border=true" height="170">
+### 🚀 My GitHub Journey
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gouthamdc2007&layout=compact&theme=tokyonight&hide_border=true" height="170">
+<a href="https://github.com/Gouthamdc2007">
+<img src="https://img.shields.io/badge/GitHub-Gouthamdc2007-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
+</a>
+
+<br><br>
+
+💻 <b>Building Projects</b> &nbsp; • &nbsp;
+🧠 <b>Solving Problems</b> &nbsp; • &nbsp;
+📚 <b>Learning Every Day</b>
 
 </div>
 
-<br>
+---
+
+## 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gouthamdc2007&theme=tokyonight&hide_border=true">
+<img src="https://streak-stats.demolab.com?user=Gouthamdc2007&theme=tokyonight&hide_border=true" alt="GitHub Streak">
 
 </div>
 
@@ -154,19 +164,19 @@ I'm continuously improving my ability to:
 <div align="center">
 
 <a href="mailto:gowtham57845@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
 
 <a href="https://www.linkedin.com/in/goutham-kumar-s-k-790884340/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 <a href="https://github.com/Gouthamdc2007">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
 <a href="https://portfoliogoutham.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
 </a>
 
 </div>
