@@ -2,20 +2,22 @@
 
 <div align="center">
 
-<img src="./profile.jpg" alt="Goutham Kumar S K" width="200">
+<img src="https://raw.githubusercontent.com/Gouthamdc2007/portfolio/main/profile.jpg" alt="Goutham Kumar S K" width="200">
 
 <h3>💻 Aspiring Software Engineer | Problem Solver | Lifelong Learner</h3>
 
 <p>
-  <a href="https://github.com/Gouthamdc2007">
-    <img src="https://img.shields.io/badge/GitHub-Gouthamdc2007-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://www.linkedin.com/in/goutham-kumar-s-k-790884340/">
-    <img src="https://img.shields.io/badge/LinkedIn-Goutham%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:gowtham57845@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
+<a href="https://github.com/Gouthamdc2007">
+<img src="https://img.shields.io/badge/GitHub-Gouthamdc2007-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/goutham-kumar-s-k-790884340/">
+<img src="https://img.shields.io/badge/LinkedIn-Goutham%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:gowtham57845@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 </p>
 
 </div>
@@ -28,7 +30,7 @@ I'm **Goutham Kumar S K**, a Computer Science and Engineering student at **Sri K
 
 I enjoy building projects, solving programming problems, learning new technologies, and continuously improving my development skills.
 
-I'm passionate about **software development, Data Structures & Algorithms, web development, SQL, and problem solving**.
+I'm passionate about **Software Development, Data Structures & Algorithms, Web Development, SQL, and Problem Solving**.
 
 ### 🚀 Currently Learning
 
@@ -47,31 +49,31 @@ I'm passionate about **software development, Data Structures & Algorithms, web d
 ### 💻 Programming Languages
 
 <p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </p>
 
-### 🌐 Web Technologies
+### 🌐 Web Development
 
 <p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </p>
 
 ### 🗄️ Database
 
 <p>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
 
-### 🔧 Tools
+### 🔧 Tools & Platforms
 
 <p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
 </p>
 
 ---
@@ -80,7 +82,7 @@ I'm passionate about **software development, Data Structures & Algorithms, web d
 
 ### 🌐 Personal Portfolio
 
-My personal portfolio website where I showcase my skills, projects, and journey as a Computer Science student.
+A personal portfolio website created to showcase my skills, projects, and journey as a Computer Science student.
 
 **Technologies Used:**
 
@@ -90,11 +92,11 @@ My personal portfolio website where I showcase my skills, projects, and journey 
 
 <p>
 <a href="https://portfoliogoutham.vercel.app/">
-<img src="https://img.shields.io/badge/🌐_Live_Portfolio-Visit_Website-000000?style=for-the-badge" alt="Live Portfolio">
+<img src="https://img.shields.io/badge/🌐_Live_Portfolio-Visit_Website-000000?style=for-the-badge">
 </a>
 
 <a href="https://github.com/Gouthamdc2007/portfolio">
-<img src="https://img.shields.io/badge/📂_GitHub-View_Source_Code-181717?style=for-the-badge&logo=github" alt="GitHub Repository">
+<img src="https://img.shields.io/badge/📂_GitHub-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
 
@@ -120,8 +122,8 @@ I'm continuously improving my ability to:
 - 🚀 Become a skilled Software Engineer
 - 🧠 Master Data Structures & Algorithms
 - 💻 Build real-world projects
-- 🌐 Improve my web development skills
-- 🤝 Contribute to open-source projects
+- 🌐 Improve my Web Development skills
+- 🤝 Contribute to Open Source
 - 📚 Continuously learn new technologies
 - 🌟 Build a strong professional portfolio
 
@@ -131,9 +133,9 @@ I'm continuously improving my ability to:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Gouthamdc2007&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=Gouthamdc2007&show_icons=true&theme=tokyonight&hide_border=true" height="170">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gouthamdc2007&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gouthamdc2007&layout=compact&theme=tokyonight&hide_border=true" height="170">
 
 </div>
 
@@ -141,7 +143,7 @@ I'm continuously improving my ability to:
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gouthamdc2007&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gouthamdc2007&theme=tokyonight&hide_border=true">
 
 </div>
 
@@ -152,19 +154,19 @@ I'm continuously improving my ability to:
 <div align="center">
 
 <a href="mailto:gowtham57845@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 <a href="https://www.linkedin.com/in/goutham-kumar-s-k-790884340/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="https://github.com/Gouthamdc2007">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <a href="https://portfoliogoutham.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
 
 </div>
